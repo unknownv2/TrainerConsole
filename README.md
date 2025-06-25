@@ -1,1 +1,11 @@
-# TrainerConsole
+# Trainer Console
+
+Console app to store logs from the trainerlib: https://github.com/unknownv2/trainerlib
+
+
+# Donate
+
+If this code has helped you, consider donating to the developer at: 
+1) [Patreon](https://patreon.com/unknownv2)
+2) [Buy me a coffee](https://coff.ee/unknownv2)
+3) [Kofi](https://Ko-fi.com/unknownv2)
